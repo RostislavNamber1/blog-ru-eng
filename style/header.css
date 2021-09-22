@@ -1,0 +1,33 @@
+header{
+    width: 100%;
+    min-height: 50px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1% 5%;
+}
+header nav ul{
+    display: flex;
+    flex-flow: row wrap;
+    gap: 1.5rem;
+}
+header nav ul li{
+    list-style: none;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: #000;
+    font-size: 1.2rem;
+    padding: 10%;
+}
+header nav ul li a:hover{
+    background-color: rgba(0, 0, 0, 0.137);
+    border-radius: 5px;
+}
+header .logo a{
+    font-size: 4rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+
+}
