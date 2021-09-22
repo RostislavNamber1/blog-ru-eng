@@ -1,7 +1,7 @@
 
 # Multilingual Blog Template
 
-A brief description of what this project does and who it's for
+A template for creating your personal blog. A multilingual version has also been made. It is easy to customize to your requirements.
 
 
 ![Logo](https://nostalgic-babbage-145abe.netlify.app/scrin.jpg)
