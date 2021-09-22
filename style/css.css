@@ -37,6 +37,7 @@ font-family: "Impact";
 font-family: "Comic Sans MS";
  */
 h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: clamp(1.5rem, 8vw - 2rem, 6rem); /*отзывчивый текст(крутая штука в SASS не работает)*/
     text-align: center;
     color: aliceblue;
